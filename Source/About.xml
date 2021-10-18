@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Drugs are not Food</name>
+  <author>czpetr</author>
+  <packageId>Not.Food</packageId>
+  <url>
+  </url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <description>Changes some drugs so they are no longer considered to be food, your animals won't eat them anymore.
+		</description>
+</ModMetaData>
