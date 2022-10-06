@@ -5,7 +5,7 @@
 Update of czpetrs mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1531640632
 
-- Made it more general, now all drugs should their nutrition and food-preferability removed
+- Made it more general, now all drugs should have their nutrition and food-preferability removed
 
 ![Image](https://i.imgur.com/pufA0kM.png)
 
@@ -29,5 +29,6 @@ My Rimworld Modlist: https://steamcommunity.com/profiles/76561198092655235/mywor
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
