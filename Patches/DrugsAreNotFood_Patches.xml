@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Patch>
   <Operation Class="PatchOperationRemove">
-    <xpath>/Defs/ThingDef/comps/li[@Class="CompProperties_Drug"]/../../statBases/Nutrition</xpath>
+    <xpath>/Defs/ThingDef/statBases/Nutrition/../../comps/li[@Class="CompProperties_Drug"]/../../ingestible/preferability</xpath>
   </Operation>
   <Operation Class="PatchOperationRemove">
-    <xpath>/Defs/ThingDef/comps/li[@Class="CompProperties_Drug"]/../../ingestible/preferability</xpath>
+    <xpath>/Defs/ThingDef/comps/li[@Class="CompProperties_Drug"]/../../statBases/Nutrition</xpath>
   </Operation>
 </Patch>
